@@ -4,7 +4,7 @@ Cabozantinib PBPK
 ## Repository files
 Within this repository we share whole body PBPK model of the TKI Cabozantinib with enterohepatic recirculation (EHC) and drug-drug-interaction (DDI) via CYP3A4 inducer. The model was developed using available pharmacokinetic studies. The model describes the EHC and the DDIs with Rifampin as CYP3A4 inducer.
 
-For a detailed documentation of model development, quantitative model evaluation and sensitivity analysis, please refer to [1](#references).
+For a detailed documentation of model development, quantitative model evaluation and sensitivity analysis, please refer to [[1](#references)].
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
