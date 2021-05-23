@@ -16,4 +16,4 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[[1] Gerner, B.; Scherf-Clavel, O. Physiologically Based Pharmacokinetic Modelling of Cabozantinib to Simulate Enterohepatic Recirculation, Drug-Drug Interaction with Rifampin and Liver Impairment. *Pharmaceutics* **2021**, *XX*, XXX.](https://www.mdpi.com/1999-4923/xxxx)
+[[1] Gerner, B.; Scherf-Clavel, O. Physiologically Based Pharmacokinetic Modelling of Cabozantinib to Simulate Enterohepatic Recirculation, Drug-Drug Interaction with Rifampin and Liver Impairment. *Pharmaceutics* **2021**, *13(6)*, 778.](https://doi.org/10.3390/pharmaceutics13060778)
